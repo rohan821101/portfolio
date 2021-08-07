@@ -1,0 +1,100 @@
+#tophead{
+    border: 0px,solid;
+    margin-top: 100px;
+    text-align: center;
+}
+#navtabs{
+    background-color: rgb(106, 114, 106);
+}
+.b2{
+    font-size:x-large;
+    border: 0 solid;
+    border-radius: 20px;
+    color: rgb(186, 197, 83);
+    margin: 5px 100px;
+    background-color: rgb(106, 114, 106);
+}
+.b2:hover{
+    color: white;
+}
+#about{
+    background-color: rgba(165, 42, 42, 0.589);
+}
+#t1{
+    text-align: center;
+    border: black;
+    border: 0px,solid;
+    border-spacing: 50px;
+    margin-left: 400px; 
+    padding: 5px;  
+}
+#card{
+    background-color: cornsilk;
+    border-top: 2px solid rgb(129, 127, 127);
+    border-bottom: 2px solid rgb(129, 127, 127);
+}
+#profilePic{
+    border-radius: 500px;
+    margin-top: 10px;  
+    margin-left: 40px;
+}
+#intro{
+    border: 2px solid rgb(129, 127, 127);
+    border-radius: 40px;
+    padding: 30px;
+    margin-left: 300px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.b1{
+    border: 0 solid;
+    border-radius: 20px;
+    color: blue;
+}
+.b1:hover{
+    background-color: rgb(116, 116, 196);
+}
+#projects{
+    text-align: center;
+}
+#l2{
+    position: absolute;
+  right: 0px;
+  width: 300px;
+  border: 3px solid #a5a8a0;
+  border-radius: 20px;
+  margin-right: 20px;
+  padding: 10px;
+}
+#l3{
+    position: absolute;
+    left: 0px;
+  width: 300px;
+  border: 3px solid #a5a8a0;
+  border-radius: 20px;
+  margin-left: 20px;
+  padding: 10px;
+}
+#contacts{
+    text-align: center;
+    border-top: solid rgb(129, 127, 127);
+    margin-top: 200px;
+}
+#inputs{
+    text-align: center;
+}
+.inputs{
+    border: 50 solid rgb(129, 127, 127);
+    border-radius: 10px;
+margin: 5px;
+}
+#Submit{
+    margin-bottom: 50px;
+}
+#textarea3{
+    height: 50px;
+}
+footer{
+    border-top: solid rgb(129, 127, 127);
+    text-align: center;
+}

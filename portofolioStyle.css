@@ -58,10 +58,10 @@
 .b1{
     border: 0 solid;
     border-radius: 20px;
-    color: blue;
+    color: rgb(0, 0, 255);
 }
 .b1:hover{
-    background-color: rgb(146, 146, 197);
+    background-color: rgb(109, 213, 226);
 }
 #projects{
     text-align: center;
